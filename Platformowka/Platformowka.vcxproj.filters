@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Pickups">
+      <UniqueIdentifier>{80fcdf79-8184-45c0-ab46-23391d29ea79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Units">
+      <UniqueIdentifier>{b4cecc7f-10fb-4bb1-8b2a-1c41b3b50136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Tiles">
+      <UniqueIdentifier>{464e5e5f-08b9-4860-bbbd-58f919b8ec81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Pickups">
+      <UniqueIdentifier>{26498333-4234-4376-b8ae-7a2bdc34df48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Units">
+      <UniqueIdentifier>{6d09b0a2-371e-4588-a10a-ab3a21128ce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Tiles">
+      <UniqueIdentifier>{447caf07-77fa-4c33-b7c3-d53afd2de9e4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_objects.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Pliki źródłowe\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="Rat.cpp">
+      <Filter>Pliki źródłowe\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Pliki źródłowe\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Pliki źródłowe\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Pliki źródłowe\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Spikes.cpp">
+      <Filter>Pliki źródłowe\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Simple_tile.cpp">
+      <Filter>Pliki źródłowe\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Pickup.cpp">
+      <Filter>Pliki źródłowe\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="Finish.cpp">
+      <Filter>Pliki źródłowe\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource_holder.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaderboard.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Skeleton.cpp">
+      <Filter>Pliki źródłowe\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>Pliki źródłowe\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="Cowboy.cpp">
+      <Filter>Pliki źródłowe\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="Upgrade.cpp">
+      <Filter>Pliki źródłowe\Pickups</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Game_objects.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Pickup.h">
+      <Filter>Pliki nagłówkowe\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Pliki nagłówkowe\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Pliki nagłówkowe\Units</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Pliki nagłówkowe\Units</Filter>
+    </ClInclude>
+    <ClInclude Include="Rat.h">
+      <Filter>Pliki nagłówkowe\Units</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Pliki nagłówkowe\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Spikes.h">
+      <Filter>Pliki nagłówkowe\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Simple_tile.h">
+      <Filter>Pliki nagłówkowe\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Finish.h">
+      <Filter>Pliki nagłówkowe\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource_holder.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="enums.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Leaderboard.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Skeleton.h">
+      <Filter>Pliki nagłówkowe\Units</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>Pliki nagłówkowe\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="Cowboy.h">
+      <Filter>Pliki nagłówkowe\Units</Filter>
+    </ClInclude>
+    <ClInclude Include="Upgrade.h">
+      <Filter>Pliki nagłówkowe\Pickups</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

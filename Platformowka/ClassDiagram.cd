@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bullet">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAoAAAACAAAAAEAAAAAAIAAQAABAQAAAIQAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leaderboard">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAEAAAACgAAAAAAAAAAAECAACAAAAAAI=</HashCode>
+      <FileName>Leaderboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="12" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AKAgQIAAAAUYAAANICACAAAAEAkIhAABCgIBIBBkIAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_objects">
+    <Position X="16.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAgAAIAAABIABAAAAACAA=</HashCode>
+      <FileName>Game_objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level">
+    <Position X="14.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAABIBAEAgQAQAAAgAgAEQAACAAAAAAAABAAIAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAgAQAAABEAAAAAACAAAAAAAYAAAIQAEABAAAMAI=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resource_holder">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource_holder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coin">
+    <Position X="6" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAABAAAAAAgACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Upgrade">
+    <Position X="8" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAAAAAIAAAAAAgAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Upgrade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun">
+    <Position X="10" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pickup">
+    <Position X="6" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAIIAACAAIAAAAAAAAABgAAIIAAA=</HashCode>
+      <FileName>Pickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cowboy">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAEgAAAAIACWAAAAAAAAEEgAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Cowboy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rat">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAEgAAACIACAAAAAAAAAEEgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="7.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAIBEoCUgIEAgIACEAACAIAAAGMBAQgACAAEAQAEACA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skeleton">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEIAAgAEgAAAAIACAAAAAAAAAEEgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skeleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAIiBkIEgKAAALICIIIAAABAAEMQAQAKiARgAAJMgAA=</HashCode>
+      <FileName>Unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finish">
+    <Position X="1" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAAAAAAIAAAAAAAAAAAEAgAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Finish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_tile">
+    <Position X="3.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAAAAAAIAAAAAAAAAAQEAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simple_tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spikes">
+    <Position X="1" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAgAAAAAIAAAAAAAAAAAEAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Spikes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="3.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAgAAAAAAAKAAAIIABAAAAFAAAAAAAABgAAIIAQA=</HashCode>
+      <FileName>Tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="direction">
+    <Position X="18" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAEAAAAAAAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="state_of_game">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgAAAAAEAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="menu_options">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="pause_options">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
